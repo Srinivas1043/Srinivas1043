@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" />
 <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=white"/>  
-<img alt="NodeJs" src="https://img.shields.io/badge/-NodeJs-339933?style=flat-square&logo=Nodejs&logoColor=white"/>  
+<img alt="NodeJs" src="https://img.shields.io/badge/-NodeJs-339933?style=flat-square&logo=Node.js&logoColor=white"/>  
 
 </p>
 
