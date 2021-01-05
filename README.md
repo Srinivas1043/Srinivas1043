@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Data Science and Machine Learning Projects 
 - 🤔 I’m looking for help with Freezing and Deploying ML Models, Deep Learning and ML related concepts and Pyschology!
 - 💬 Ask me about Python, Javascript, Web and App Development and Data Analysis
-- 📫 How to reach me: sm1043@gmail.com / linkedin /  
+- 📫 How to reach me: sm1043@gmail.com / <a href="https://www.linkedin.com/in/srinivas-m-8019ba199/"> Linkedin </a> /  
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love food and interested to solve more problems more on data related to cuisines and food.
 
