@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on Machine Learning in Conversation AI - Intent Classification and Fans Sentiment Prediction for Sport Clubs, Customer Intent Detection using NLP and ML Models.
+- Researched on Customer Complaints for a dairy based and the text insights using Word2Vec, Machine Learning and NLP Algorithms.
 - 🌱 I’m currently learning Artificial Intelligence (Deep Learning, Evolutionary Computing and Machine Learning) using python and Pytorch
 - 👯 I’m looking to collaborate on Data Science and Machine Learning Projects 
 - 🤔 I’m looking for help with Freezing and Deploying ML Models, Deep Learning and ML related concepts and Pyschology!
