@@ -1,4 +1,4 @@
-### Hi There! I am Srinivas Muralidharan 👋
+### Hi There! I am Srinivas Muralidharan 👋. Vision to create technology that can be beneficial and useful for the society. 
 
 <!--
 **Srinivas1043/Srinivas1043** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
