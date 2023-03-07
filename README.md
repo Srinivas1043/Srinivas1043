@@ -6,8 +6,8 @@ Here are some ideas to get you started:
 
 -->
 
- 
-- Currently working as a Data Engineer with Macaw, Netherlands. 
+- Happily Working with Friesland Campina as a Data specialist at Netherlands.
+- Worked as a Data Engineer with Macaw, Netherlands. 
 - 🔭 Ihave worked on Machine Learning in Conversation AI - Intent Classification and Fans Sentiment Prediction for Sport Clubs, Customer Intent Detection using NLP and ML Models.
 - Researched on Customer Complaints for a dairy based and the text insights using Word2Vec, Machine Learning and NLP Algorithms.
 - 🌱 I’m currently learning Artificial Intelligence (Deep Learning, Evolutionary Computing and Machine Learning) using python and Pytorch
