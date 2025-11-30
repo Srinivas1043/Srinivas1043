@@ -40,6 +40,9 @@ Here are some ideas to get you started:
 <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJs-339933?style=flat-square&logo=Node.js&logoColor=white"/> 
 <img alt="GoogleColab" src="https://img.shields.io/badge/-GoogleColab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>  
 <img alt="R" src="https://img.shields.io/badge/-R-0080dc?style=flat-square&logo=r&logoColor=white"/>  
+<img src="https://img.shields.io/badge/-Databricks-FF3621?style=flat&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Microsoft Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
+
 
 
 </p>
